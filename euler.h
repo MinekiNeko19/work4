@@ -1,2 +1,2 @@
-int program1();
-int program5();
+int problem1();
+int problem5();
