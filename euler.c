@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int problem1() {
     int sum = 0;
     int x;
